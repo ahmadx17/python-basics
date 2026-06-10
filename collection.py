@@ -1,7 +1,10 @@
 #collection--list,tuple,set,dictionaries
-#  -list[]= > allows duplicate,can store any data type,can modifiable
+#  -list[]=> allows duplicate,can store any data type,can modifiable
 #            list.append(),list.insert(),list.pop(),list.extend()
-#  -tuple()= > allows duplicate,can store any data type,but can't modify,tuple=list()
+#  -tuple()=> allows duplicate,can store any data type,but can't modify,tuple=list()
+#  -set{}=> 
+#          add(),update(),pop()
+
 
 
 a=(1,2,3,4,5,6,7)
